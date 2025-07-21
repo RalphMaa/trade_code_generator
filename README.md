@@ -1,4 +1,4 @@
-# 🧠 Week 4 Challenge: AI-Powered Trading Code Generator
+# 🧠 AI-Powered Trading Code Generator
 
 This project is a Python-based interface that lets you generate trading strategy code using state-of-the-art language models. Users provide a strategy description, and the app uses either **Claude Sonnet** or **CodeQwen 1.5-7B** to produce Python functions that implement the strategy and suggest improvements.
 
